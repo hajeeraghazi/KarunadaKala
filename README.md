@@ -210,21 +210,5 @@ signups/{id}      → name, phone, artFormInterest, timestamp
 
 ---
 
-## 📹 Demo Script (2-3 minutes)
-
-1. **[0:00]** Launch app → Show home screen with events feed and Karnataka theme
-2. **[0:20]** Tap "Explore Arts" → Show grid, search "Yaksha" → filter works
-3. **[0:40]** Tap Yakshagana card → Detail screen, history text visible
-4. **[1:00]** Tap "Generate AI Description" → Spinner → Gemini text appears (GenAI moment!)
-5. **[1:20]** Tap Map tab → Karnataka map loads with blue + red markers
-6. **[1:35]** Tap a red marker → Bottom sheet appears with artisan preview
-7. **[1:45]** Tap "View Full Profile" → Artisan Profile screen
-8. **[1:55]** Tap "Tap to Call" → Phone dialler opens (highlight this clearly!)
-9. **[2:10]** Navigate to Events tab → Show dated event cards
-10. **[2:25]** Go back → Tap "Register for Workshop" → Fill form → Submit → Success screen
-11. **[2:45]** Point out Karnataka yellow/red colors throughout the UI
-
----
-
 ## 📄 License
 MindMatrix VTU Internship Programme — Project 90 — For educational use only.
