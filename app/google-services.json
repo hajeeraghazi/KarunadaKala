@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "354463477191",
+    "project_id": "karunadakala-6dd8c",
+    "storage_bucket": "karunadakala-6dd8c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354463477191:android:d60c4b162c9ee34658bde2",
+        "android_client_info": {
+          "package_name": "com.mindmatrix.karunadakala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGy2ULlYfSAwV4vL-8aQpZOUbfwRq0HyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
